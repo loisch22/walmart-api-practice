@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E0D5FC54-6821-4A60-9010-D79392D88032}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwilioTest/Walmart.cs">
+    <Files>
+      <File FileName="TwilioTest/TwilioTest.csproj" Line="1" Column="1" />
+      <File FileName="TwilioTest/Program.cs" Line="19" Column="13" />
+      <File FileName="TwilioTest/Walmart.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TwilioTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

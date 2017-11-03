@@ -1,0 +1,10 @@
+/Users/Guest/Desktop/TwilioTest/TwilioTest/bin/Debug/netcoreapp1.1/TwilioTest.deps.json
+/Users/Guest/Desktop/TwilioTest/TwilioTest/bin/Debug/netcoreapp1.1/TwilioTest.runtimeconfig.json
+/Users/Guest/Desktop/TwilioTest/TwilioTest/bin/Debug/netcoreapp1.1/TwilioTest.runtimeconfig.dev.json
+/Users/Guest/Desktop/TwilioTest/TwilioTest/bin/Debug/netcoreapp1.1/TwilioTest.dll
+/Users/Guest/Desktop/TwilioTest/TwilioTest/bin/Debug/netcoreapp1.1/TwilioTest.pdb
+/Users/Guest/Desktop/TwilioTest/TwilioTest/obj/Debug/netcoreapp1.1/TwilioTest.csprojResolveAssemblyReference.cache
+/Users/Guest/Desktop/TwilioTest/TwilioTest/obj/Debug/netcoreapp1.1/TwilioTest.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/TwilioTest/TwilioTest/obj/Debug/netcoreapp1.1/TwilioTest.AssemblyInfo.cs
+/Users/Guest/Desktop/TwilioTest/TwilioTest/obj/Debug/netcoreapp1.1/TwilioTest.dll
+/Users/Guest/Desktop/TwilioTest/TwilioTest/obj/Debug/netcoreapp1.1/TwilioTest.pdb
